@@ -72,15 +72,15 @@ El modelo está compuesto por:
 
 
 
-\##  **Resultados**
+\##  **Resultados y limitaciones**
 
 
 
-El modelo inicial obtuvo un rendimiento cercano al 50% de precisión, equivalente a clasificación aleatoria.
+El modelo inicial obtuvo un rendimiento cercano al 50% de precisión, equivalente a clasificación aleatoria, por lo que  presenta dificultades para generalizar correctamente. Se observan indicios de sobreajuste tras la primera iteración.
 
 
 
-Se realizó una iteración modificando el pipeline de augmentación, lo que permitió mejorar la precisión de entrenamiento, aunque se observó sobreajuste en validación.
+Este proyecto se centra en el aprendizaje del pipeline completo más que en optimizar el rendimiento final.
 
 
 
@@ -108,17 +108,11 @@ El dataset utilizado no se incluye en el repositorio debido a su tamaño.
 
 
 
-\##  **Autor**
+\##  **Objetivo del proyecto**
 
 
 
-Proyecto desarrollado como práctica de Deep Learning y mejora de portfolio profesional.
+Este proyecto forma parte de mi proceso de aprendizaje en Deep Learning. El objetivo ha sido comprender cómo funciona una CNN desde cero, 
 
-
-
-
-
-
-
-
+implementando manualmente el pipeline de datos y el entrenamiento del modelo.
 
