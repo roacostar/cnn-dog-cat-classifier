@@ -112,7 +112,5 @@ El dataset utilizado no se incluye en el repositorio debido a su tamaño.
 
 
 
-Este proyecto forma parte de mi proceso de aprendizaje en Deep Learning. El objetivo ha sido comprender cómo funciona una CNN desde cero, 
-
-implementando manualmente el pipeline de datos y el entrenamiento del modelo.
+Este proyecto forma parte de mi proceso de aprendizaje en Deep Learning. El objetivo ha sido comprender cómo funciona una CNN desde cero, implementando manualmente el pipeline de datos y el entrenamiento del modelo.
 
